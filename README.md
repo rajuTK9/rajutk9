@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raju Tukadiya.</h1>
+<p align="center">
+  <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/63164037/141458096-5aa35ee6-23a8-4626-9488-592725310ef3.gif" />
+</p>
 <h3 align="center">A passionate full stack developer from Gujarat, India.</h3>
 
 - 🔭 I’m currently working on [DSA101](https://dsa101.netlify.app/)
@@ -15,6 +18,10 @@
 
 - 📄 Know about my experiences [https://rajutk.me/CV/CV.pdf](https://rajutk.me/CV/CV.pdf)
 
+<br/>
+<br/>
+![Profile views](https://gpvc.arturio.dev/aditya-190)  <img src="https://img.shields.io/github/followers/aditya-190?label=Follow" style=" float:left, margin-right:10px" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rajutk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajutk/" height="30" width="40" /></a>
@@ -30,5 +37,7 @@
 <h3 align="left">Check the Repositories and don't forget to give a star.👇 </h3>
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=rajuTK9&show_icons=true&&hide_border=false&&count_private=true&include_all_commits=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=rajuTK9&&hide_border=false&&show_icons=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=rajuTK9&show_icons=true&&hide_border=false&&count_private=true&include_all_commits=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajuTK9&&hide_border=false&&show_icons=true"/>
 
