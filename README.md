@@ -19,7 +19,7 @@
 - 📄 Know about my experiences [https://rajutk.me/CV/CV.pdf](https://rajutk.me/CV/CV.pdf)
 
 <br/>
-<br/>
+
 ![Profile views](https://gpvc.arturio.dev/aditya-190)  <img src="https://img.shields.io/github/followers/aditya-190?label=Follow" style=" float:left, margin-right:10px" />
 
 <h3 align="left">Connect with me:</h3>
