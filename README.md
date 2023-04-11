@@ -30,5 +30,5 @@
 <h3 align="left">Check the Repositories and don't forget to give a star.👇 </h3>
 <br>
 
-|<img align="left" src="https://github-readme-stats.vercel.app/api?username=rajuTK9&show_icons=true&&hide_border=false&&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajuTK9&&hide_border=false&&show_icons=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=rajuTK9&show_icons=true&&hide_border=false&&count_private=true&include_all_commits=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=rajuTK9&&hide_border=false&&show_icons=true"/>
 
